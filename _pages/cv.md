@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Financial Mathematics, Ohio State University, 2018
+* B.S. in Honors Economics and History Minor, Ohio State University, 2018
+* Currently: Ph.D in Sociology, University of California, Berkeley, begun 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2022: Pre-Doctoral Fellow
+  * Harvard Kennedy School
+  * Supervisor: The Shift Project, PIs: Daniel Schnieder & Kristen Harknett
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2020: Research Analyst
+  * Federal Reserve Bank of Philadelphia
+  * Division: Urban and Regional Economics
+
+
   
 Skills
 ======
