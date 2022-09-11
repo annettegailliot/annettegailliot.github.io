@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my About Me.
+This is currently a work in progress.
 
 A data-driven personal website
 ======
