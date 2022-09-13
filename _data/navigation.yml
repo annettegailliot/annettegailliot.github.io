@@ -5,3 +5,6 @@ main:
 
   - title: "CV/Bio"
     url: /cv/    
+    
+  - title: "Computational Projects"
+    url: /projects/
