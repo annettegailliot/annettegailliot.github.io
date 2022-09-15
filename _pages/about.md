@@ -9,8 +9,3 @@ redirect_from:
 ---
 
 This is currently a work in progress.
-
-A data-driven personal website
-======
-
-+Lorem ipsum.
