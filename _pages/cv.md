@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Currently: Ph.D in Sociology, University of California, Berkeley, begun 2022
-* * B.S. in Financial Mathematics, Ohio State University, 2018
+* B.S. in Financial Mathematics, Ohio State University, 2018
 * B.S. in Honors Economics and History Minor, Ohio State University, 2018
 
 
