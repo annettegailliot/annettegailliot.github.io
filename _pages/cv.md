@@ -1,12 +1,14 @@
 ---
-layout: archive
-title: "Curriculum Vitae"
+layout: single
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----f
+---
 
 {% include base_path %}
 
-<style>iframe{width:100%}</style> <iframe src="https://drive.google.com/file/d/1S4ec2tp8oxeQTdxXKG_C758-MobF_ehM/preview" frameborder="0" height="100%" width="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> <script>iFrameResize({log:true})</script>
+If file does not load below, click [THIS LINK](https://github.com/annettegailliot/annettegailliot.github.io/blob/master/files/Gailliot_CV_12212021.pdf) to download.
+
+<embed src="{{ site.baseurl }}/files/Gailliot_CV_12212021.pdf" width="650" height="800" type='application/pdf'>
