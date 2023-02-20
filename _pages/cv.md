@@ -11,4 +11,4 @@ redirect_from:
 
 If file does not load below, click [THIS LINK](https://github.com/annettegailliot/annettegailliot.github.io/blob/master/files/Gailliot_CV.pdf) to download.
 
-<embed src="{{ site.baseurl }}/files/Gailliot_CV_12212021.pdf" width="650" height="800" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Gailliot_CV.pdf" width="650" height="800" type='application/pdf'>
