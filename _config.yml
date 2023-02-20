@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Annette Gailliot"
 title_separator          : "-"
 name                     : &name "Annette Gailliot"
-description              : &description "(she/her) /n PhD Student, UC Berkeley [Department of Sociology](https://sociology.berkeley.edu/graduate-student/annette-gailliot)"
+description              : &description "PhD Student, UC Berkeley [Department of Sociology](https://sociology.berkeley.edu/graduate-student/annette-gailliot)"
 url                      : https://annettegailliot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/annettegailliot.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Annette Gailliot"
   avatar           : "itsme.png"
-  bio              : (she/her) \n /n PhD Student, UC Berkeley <a color=black; href="https://sociology.berkeley.edu/graduate-student/annette-gailliot">Department of Sociology</a>
+  bio              : (she/her)                  PhD Student, UC Berkeley <a color=black; href="https://sociology.berkeley.edu/graduate-student/annette-gailliot">Department of Sociology</a>
   location         : "Berkeley, CA"
   employer         :
   pubmed           : 
