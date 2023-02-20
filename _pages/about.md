@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Hi, my name is Annette (she/her)! 👋🏻
+title: Hi, my name is Annette! 👋🏻
 excerpt: true
 author_profile: true
 redirect_from: 
