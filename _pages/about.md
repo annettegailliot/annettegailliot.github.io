@@ -16,7 +16,7 @@ I am a PhD student at the Department of Sociology at University of California, B
 My research broadly focuses on how technology is changing work-based inequalities and regulations. I aim to integrate quantitative and computational methods with historical methods to examine the determinants and outcomes of present-day social welfare institutions.
 
 ## Affiliations
-- I am currently in the [Political Economy Designated Emphasis Program](https://besi.berkeley.edu/designated-emphasis-in-political-economy-de-in-pe-students/) and am a fellow in the [Computational Social Science Training Program](https://bids.berkeley.edu/research/computational-social-science-training-program) at Berkeley.
+- I am currently in the [Political Economy Designated Emphasis Program](https://besi.berkeley.edu/designated-emphasis-in-political-economy-de-in-pe-students/) and am a fellow in the [Computational Social Science Training Program]([https://bids.berkeley.edu/research/computational-social-science-training-program](https://bids.berkeley.edu/people/annette-gailliot)) at Berkeley.
 - Prior to my PhD program, I was a Pre-Doctoral Fellow at Harvard Kennedy School working on [The Shift Project](https://shift.hks.harvard.edu/author/annette-gailliot/) and a Research Analyst in the Urban and Regional Economics team at the Federal Reserve Bank of Philadelphia. My undergraduate training is in math and economics at Ohio State (go bucks). 
 
 ## Updates
