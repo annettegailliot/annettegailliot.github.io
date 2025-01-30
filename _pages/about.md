@@ -20,6 +20,7 @@ My research broadly focuses on how technology is changing work-based inequalitie
 - Prior to my PhD program, I was a Pre-Doctoral Fellow at Harvard Kennedy School working on [The Shift Project](https://shift.hks.harvard.edu/author/annette-gailliot/) and a Research Analyst in the Urban and Regional Economics team at the Federal Reserve Bank of Philadelphia. My undergraduate training is in math and economics at Ohio State (go bucks). 
 
 ## Updates
+- December 2024: I'll be at the ISA Forum of Sociology conference this summer (July) in Rabat, Morocco where I'll be presenting work I've been doing on survey targeting in Meta. 
 - November 2024: My first publication! Joint work with Danny Schneider and Kristen Harknett is out in Social Science Research: ["COVID-19 employment shocks and safety net expansion"](https://www.sciencedirect.com/science/article/pii/S0049089X24000814?via%3Dihub). This was my first project while working at The Shift Project, so it's exciting to see it published.
 - June 2024: Presenting my master's paper, ["Medicaid Eligibility Determination in an Automated Welfare State"](https://virtual.oxfordabstracts.com/#/event/4988/submission/998) at SASE in Limerick, Ireland.
 - Summer 2024: Working with Ruth Milkman, Eileen Boris, Heidi Gottfried, and Isaac Jabola-Carolus to study gray market home care health workers. See some related work [here](https://cuidado.cebrap.org.br/wp-content/uploads/2024/04/T-AP-US-Working-Paper-1-Who-cares-Jan-2024.pdf).
